@@ -95,7 +95,7 @@ function writeToFile(fileName, data) {
   ${licenseLink}
 
   ## Questions
-  If you have any questions about the repository, contact me in ${github} and @ ${email}
+  If you have any questions about the repository, contact me in [${github}](https://github.com/${github}) and @ ${email}
  
   `;
 
