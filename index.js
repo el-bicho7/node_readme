@@ -84,7 +84,7 @@ function writeToFile(fileName, data) {
   ## Usage
   ${usage}
 
-  ## Contributing
+  ## Credits
   ${contributing}
 
   ## Test
